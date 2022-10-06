@@ -34,6 +34,8 @@ map:
   location: Prague, CZ
   latitude: "50.0755"
   longitude: "14.4378"
+  industries:
+    - Software Development
 body_content:
   title: Jenkins is the way to build multi-platform NUT, and
     jenkinsfile-dynamatrix is the way to find what can be built today
